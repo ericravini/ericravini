@@ -14,10 +14,8 @@
 ### 🌐 Social
 <div> 
   <a href="https://www.linkedin.com/in/ericravini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-      
+</div>  
     </td>
-    
     <td valign="top" width="50%">
       <a href="https://github.com/ericravini">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericravini&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
