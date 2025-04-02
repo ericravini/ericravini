@@ -1,7 +1,6 @@
-<h1>Hey, I'm Eric 👁️</h1>
-<hr/>
+<h1 style="float: left;">Hey, I'm Eric 👁️</h1>
 
- <div style="margin: auto">
+ <div style="float:right;">
    <a href="https://github.com/ericravini">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericravini&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericravini&layout=compact&langs_count=6&theme=tokyonight"/>
