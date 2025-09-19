@@ -7,18 +7,10 @@
   <h2>🚀 Tecnologias</h2>
   <p>Atualmente estudando:</p>
   <div style="display: inline_block">
-    <a href="https://github.com/ericravini#-tecnologias" style="text-decoration: none;">
       <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    </a>
-    <a href="https://github.com/ericravini#-tecnologias" style="text-decoration: none;">
       <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    </a>
-    <a href="https://github.com/ericravini#-tecnologias" style="text-decoration: none;">
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    </a>
-    <a href="https://github.com/ericravini#-tecnologias" style="text-decoration: none;">
       <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </a>
   </div>
         
   <h2>🌐 Social</h2>
