@@ -28,4 +28,4 @@
     </td>
   </tr>
 </table>
-![snake gif](https://github.com/ericravini/ericravini/blob/output/github-snake-dark.svg)
+<img src="https://github.com/ericravini/ericravini/blob/output/github-snake-dark.svg">
