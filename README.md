@@ -28,4 +28,6 @@
     </td>
   </tr>
 </table>
-<img src="https://github.com/ericravini/ericravini/blob/output/github-snake-dark.svg">
+<a href="https://github.com/ericravini">
+  <img src="https://github.com/ericravini/ericravini/blob/output/github-snake-dark.svg">
+</a>
