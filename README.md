@@ -28,5 +28,4 @@
     </td>
   </tr>
 </table>
-<br clear="both">
-![snake animation](https://github.com/ericravini/ericravini/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
