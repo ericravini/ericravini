@@ -29,4 +29,4 @@
   </tr>
 </table>
 <br clear="both">
-![commits](https://github.com/ericravini/ericravini/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/ericravini/ericravini/blob/output/github-contribution-grid-snake2.svg)
